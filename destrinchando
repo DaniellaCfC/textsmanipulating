@@ -1,0 +1,10 @@
+frase=('  Daniella Cristina   ')
+print(frase.count('a'))
+print(frase.count('A'))
+print(frase.upper().count('a'))
+print(len.(frase))
+print(len(frase.strip()))
+print(frase.replace('Cristina', 'Cardoso'))
+print(frase.find('Daniella'))
+print(frase.find('daniella')) #não existe me minusculo portanto retornara -1
+print(frase.split())
